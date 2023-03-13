@@ -1,5 +1,5 @@
 # Fighting Game
-This is a fighting game for 2 players written in Python using classes.
+This is a game for 2 players written in Python using classes.
 
 Contributor: @GabrielleMonaen
 
