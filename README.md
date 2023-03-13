@@ -1,4 +1,4 @@
-# Fighting Game
+# Game for 2 players
 This is a game for 2 players written in Python using classes.
 
 Contributor: @GabrielleMonaen
